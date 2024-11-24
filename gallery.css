@@ -1,0 +1,14 @@
+.gallery_1 .gallery_2 .gallery_3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+img:hover{
+    width: 400px;
+    height: 400px;
+    transition: 1s;
+    border-radius: 20px;
+    box-shadow: 5px;
+    top: -3px;
+}
